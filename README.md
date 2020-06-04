@@ -6,4 +6,13 @@
 ```
 npm i express
 node server.js
+http://localhost:8080/
+```
+### Author
+```
+Website By: Dmar#2020
+```
+
+```
+Server Arabian Developers: https://discord.gg/eMKUcuR
 ```
